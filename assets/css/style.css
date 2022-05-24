@@ -1,5 +1,5 @@
 /*
-@File: Solit Template Styles
+
 
 * This file contains the styling for the actual template, this
 is the file you need to edit to change the look of the
@@ -2541,7 +2541,7 @@ img {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background: url(../img/background/newsletter_bg.png) no-repeat center;
+  background: url(../img/banner/banner_x.webp) no-repeat center;
   background-size: cover;
   z-index: 1;
 }
